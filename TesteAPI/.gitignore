@@ -1,0 +1,5 @@
+# Ignore pasta bin
+bin
+
+# Ignore pasta obj
+obj
